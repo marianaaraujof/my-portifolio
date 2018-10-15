@@ -1,0 +1,23 @@
+{
+  "name": "documents",
+  "version": "1.0.0",
+  "description": "Responsive portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianaaraujof/my-portifolio.git"
+  },
+  "author": "Mariana Araujo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marianaaraujof/my-portifolio/issues"
+  },
+  "homepage": "https://github.com/marianaaraujof/my-portifolio#readme",
+  "dependencies": {
+    "node-sass": "^4.9.4"
+  },
+  "devDependencies": {}
+}
